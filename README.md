@@ -1,19 +1,20 @@
- # Api REST e RESTFul
+# Api REST e RESTFul
 
     Seu texto...
 
-  ## Diferenças entre REST e RESTFul
+## Diferenças entre REST e RESTFul
 
     Seu texto...
 
-  # HTTP verbs
+## HTTP verbs
 
     Seu texto...
 
-  # HTTP Status Code
+## HTTP Status Code
 
     Seu texto...
 
     ---
 
-    Autor do resumo: Nome Sobrenome - Matrícula
+Autor do resumo: Nome Sobrenome - Matrícula
+
