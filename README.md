@@ -1,6 +1,6 @@
 # Api REST e RESTFul
 
-    Seu texto...
+    
 
 ## Diferenças entre REST e RESTFul
 
